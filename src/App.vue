@@ -11,7 +11,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue + Monolito - Tipo de Integracion Merge" />
+  <HelloWorld msg="Vite + Vue + Monolito - Tipo de Integracion Merge -Nunca trabajes en una rama de integracion DEVELOP" />
 </template>
 
 <style scoped>
